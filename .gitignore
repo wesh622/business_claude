@@ -1,0 +1,8 @@
+.env
+bot_state.json
+*.json.tmp
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.csv
